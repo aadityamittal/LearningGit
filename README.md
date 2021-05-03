@@ -9,5 +9,4 @@ https://google.com
 
 Want to see how my project looks at localhost:
 
-![Screenshot (15)](https://user-images.githubusercontent.com/66875383/116902409-b644e500-ac58-11eb-97e7-fc03d23fcb8c.png)
-
+![Screenshot (15)](https://user-images.githubusercontent.com/66875383/116904064-de354800-ac5a-11eb-81d0-50ec0d3eb532.png)
